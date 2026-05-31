@@ -23,9 +23,9 @@ test("alert handling", async ({ page }) => {
     await page.waitForTimeout(2000); 
    await dialog.accept("Welcome to Playwright");
   });
-  await page.locator(".btn.btn-info").click(); 
+  await page.locator(".btn.btn-info").click(); // I am doing good
  
  await page.waitForTimeout(2000);  
   });
-
+//This is ok but that is better
   // Hello Ankit
