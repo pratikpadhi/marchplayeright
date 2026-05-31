@@ -27,5 +27,5 @@ test("alert handling", async ({ page }) => {
  
  await page.waitForTimeout(2000);  
   });
-//This is ok but that is better
+//This is ok but that is better one
   // Hello Ankit
