@@ -1,0 +1,11 @@
+{
+  id: 'ff8081819d82fab6019ea19a88834a91',
+  name: 'Apple MacBook Pro 16',
+  createdAt: 1780827719811,
+  data: {
+    year: 2019,
+    price: 1849.99,
+    'CPU model': 'Intel Core i9',
+    'Hard disk size': '1 TB'
+  }
+}
