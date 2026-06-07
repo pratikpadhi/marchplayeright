@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "smoke": "  npx playwright test fileupload.spec.ts --headed"
+    "smoke": "npx playwright test fileupload.spec.ts"
   },
   "keywords": [],
   "author": "",
