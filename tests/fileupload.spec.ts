@@ -19,6 +19,6 @@ test("File Upload two withouth html tag input and type attribute file", async ({
  await page.locator("#uploadFile").click();
  await page.waitForTimeout(3000);
  const filechooserEvent = await filechooserPromise;
-  await filechooserEvent.setFiles([filePath,filePath2]);
+  await filechooserEvent.setFiles(filePath);
 }   );
 //I am Ankit
