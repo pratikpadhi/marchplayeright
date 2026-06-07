@@ -1,0 +1,22 @@
+{
+  "id": 1052,
+  "username": "coder123",
+  "email": "coder@example.com",
+  "isActive": true,
+  "roles": ["User", "Admin"],
+  "preferences": {
+    "theme": "dark",
+    "notifications": "enabled"
+  },
+"Address":[
+{
+"pincode": 123456,
+"city": "ABC"
+},
+{
+"pincode": 54789,
+"city": "DFG"
+}
+
+]
+}
